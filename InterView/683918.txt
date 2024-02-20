@@ -1,0 +1,466 @@
+Here are some of the Interview Question with respect to topics, Please undertand them:
+
+
+1) OOP Interview Questions
+
+-difference between interfaces and abstarct classes and when to use one over another
+-how to stop a class from being inherited (selaed classes and private consructor)
+-what is encapsulation explain it
+-what is abstraction explain it
+-what is polymorphism, give an example
+-difference between static and dynamic polymophism
+-what is multi threading, how to achive that
+-what are stack and heaps
+-when is a reference variable
+-pass be value and pass by reference example
+-how value type and reference types go in memory
+-what things go in stack and what things go in heap
+-what is garbage collection
+-what does finally do
+-if you crate a class and define a character inside it what will be the total memory it will take and what memory will be taken for an empty class
+-what is immutability?
+-are string immutable? if yes how?
+-Can a parrent class' reference variable have a child class's object and vice versa?
+-Can we make an object of interface?
+-examples of value types and reference types
+-static classes vs non static classes
+-static methods vs non static methods 
+-try creating static methods inside non static classes and vice verse
+-what are inner classes?
+-try creating static inner classes in non static classes and vice versa
+-can interfaces have variables?
+-can interfaces have properties?
+-if class A is inheriting class B, which constuctor will be call first A or B?
+-List and Describe some OOP design patterns
+-Implement Singelton Pattern
+-Why use OOAD opposed to sequential and functional.
+-What is Data Encapsulation? Give a real world example
+- Why use classes instead of modular programming?
+- Can you do polymorphism in a single class?
+- Describe polymorphism in terms of objects in the interview room.
+- What Architecture design is high in Cohesion. (Answer: Service oriented Architecture)
+-Implement polymorphism without having interhitence?
+- Diff b/w Polymorphism and Inheritance?
+- Diff b/w Data Encapsulation and Data Abstraction?
+- How can we do Data Encapsulation?
+- How can we do Data Abstraction?
+- Does it is necessary that a class having Abstraction will have encapsulation ?
+- What is Factory pattern?
+- What is State pattern?
+- What is coupling and cohesion?
+- Which is better, coupling or cohesion? Why?
+- Why do we use Design Patterns? What are the benefits?
+-What is difference b/w encryption and compression
+- Tell some encryption algos
+- How would you encrypt any given string?
+-What is open/closed principle
+- What is cohesion
+- What is single responsibility principle
+-Composition vs inheritance
+What is coupling?
+- How can you increase coupling? How would you increase coupling in a SINGLE class?
+- Is coupling high in composition?
+- How can you reduce coupling?
+- What are immutable strings
+-Polymorphism, Abstract class and he make changes to code having polymorphism and
+abstraction concept and ask me to find whether code will give error or not.
+- Abstraction vs Encapsulation
+- Ask basic major concepts of ooad.
+- What are the advantages of object-oriented over functional programming?
+- Database Schema design and queries on group by, order by, join and having clause.
+-Class B inherits from A. How will the stack look like with regards to A and B if you make an
+object of B?
+- When can you call static functions in a class?
+- Lifetime of static variable in a class?
+- What is scope resolution (or maybe it was access resolution idk)
+- Why is it better to have static variables in a class instead of global variables?
+-Differentiate between shallow and deep copy.
+-What happens when an object is created? (Behind the scenes, i.e constructor is called,
+memory allocation etc)
+-What is difference between Query string and fragment?
+-What is Stateless Request?
+-what is Composition?
+-What is aggregation?
+-diffrence between heap and stack?
+-diffrence betwen implicit and explicit type casting?
+-diffrence between parse and try parse?
+-what is foreach loop and in which case it works fast?
+-difference between if else and switch?
+-what is for loop and in which case it works fine?
+-memory allocation for static members
+-what is use of new keyword in method hiding?
+-how to call base class method with child class object when both base and child class have implimentation of that method?
+-how one can say that overriding of method happens at run time and overloading at compile time?
+-difference between class and object?
+-difference between public ,private ,protected and internal keyword?
+-what is inheritence ?single and multiple inheritence?
+- What is a virtual function?
+-What is function overloading?
+-What is a ternary operator?
+- types of arguments that can be passed to a function?
+-difference between out and ref keyword?
+-What is the super keyword?
+-what is the meaning of “IS-A” and “HAS-A” relationship?
+-What is the diamond problem in inheritance?
+- What is Inline function?
+- constructor overloading
+
+==============================================================================================
+
+
+2) C# Interview Questions
+
+-what are sealed classes
+-how c# code is converted to machine code
+-what is CLR
+-what is JIT
+
+==============================================================================================
+
+3) Databases Interview Questions
+
+-what are views
+-what are joins? why use them?
+-difference between left outer, right outer, full outer, inner and self join
+-what is normmalization 1st, 2nd and third and why do we use it (follow up:Why remove redundancy?)
+
+-what is denormilization, why do we denormalize
+-What are aggregate functions
+
+-Why stored procedures are good, explain
+-what are CTEs?
+-understand sub queries
+-differnece between unique and primary key
+-what is clusted and non clustered index
+-how do you explain non clustered indexes
+-select 2nd highest salary from a table
+-write database design for facebook comments system
+-what is dynamic SQL
+-Which one is faster, normalized or single table for data extraction
+-What is the difference between truncate drop and delete
+-Can foreign keys be null?
+- What is an index? Why do we use it?
+- How to deal with views if there is a change in original tables?
+- What is performance wise better join or a subquery?
+- A query is taking a very long time to execute, how will you debug and what might be the
+problems.
+
+-What are User Defined Functions?
+- Why do we use Having?
+
+-Write a query to get the count of a value that is repeated the maximum times
+- What are composite keys?
+- Difference b/w primary key, composite keys and unique attributes
+-Which of noSQL and relational database is faster?
+-Write a query to calculate cgpa of a student.
+- Write a query to get the 10th highest salary.
+-Draw the schema for an Airline Management System (Selected from the course projects)
+¦ Using the drawn schema. Write a query to view the information of passengers that
+have bought the ticket for a flight that is going from JFK to ISB but has been
+cancelled and the passenger has not boarded yet. Also the airplane should be
+Airbus.
+- Anomalies
+- DDL, DML
+- Views,Triggers
+- Write a query to delete a table
+- How will you create a table with images?
+- When do we use varchar
+- What is noSQL
+- What are transactions
+- What is rollback
+- How would you implement a rollback function if you are creating a DBMS?
+- What is SQL injection?
+- Write a query to select average salary department wise
+- Delete a row
+- How are views helpful/Advantage of views in business layer?
+- Why is TRUNCATE a DDL?
+- How to use a BLOB?
+- What is ACID?
+- What is projection?
+- How to delete a column from a table?
+
+-Design a database that represents the management hierarchy at the company.
+- Write a query to get the name of an employee and the name of his direct supervisor from
+the previously created DB.
+
+
+
+==============================================================================================
+
+4) .NET Interview Questions
+
+-MVC page life cyle
+-what is MVC explain that
+-what is MVVM and why use that?
+-What is repository pattern and why use that?
+-what is the difference betwwen session and cookie and when to use them
+-what is the difference betwen temp data and view data and when to use them
+-have you ever written a custom filter in MVC
+-What is Entity Framwork
+-What are database migrations
+
+==============================================================================================
+
+5) Personal
+
+-How do you define yourself ?
+- Why does empathy matter to you a lot ?
+- Questions about the things you have mentioned on the resume and the form you filled on test
+day
+- What was your role in the fyp ?
+- Do you think there should have been a leader in fyp ?
+- What are the things that inspire you ?
+- What do you know about our company?
+-What are your strengths? What are your weaknesses?
+-What would you bring to our commpany
+- What are your future goals?
+- If you want to spend 100,000 pkr in charity, where will you spend?
+
+
+==============================================================================================
+
+6) Programming Problems/Questions:
+
+-Write a function that takes a char string like “1234” or “-1234” and returns int
+- Given are three numbers x, y and z such that x = y
+z
+Write a function to compute x. Find its
+time complexity. Can you optimize it?
+- Given a singly linked list, print values from nth to last element of the list.
+-Swap 2 integers a and b without using another variable
+- Given 2 arrays A and B, give all the pairs in A and B (e.g. A[i], B[j]) that give a sum of k.
+(Note: there is a solution with O(nlogn) and also with O(n) by using hashing)
+- Given a function that generates a random number between 20-50, write a function that
+generates a random number between 10-70. (scale approach)
+- Write a program to print the maximum numbers from an array of size n in windows of
+size x sliding across. For example, if [1 6 5 1 3 7 8] and x = 3, then output [6 6 5 7 8].
+- Write a function to check if a string is palindrome or not
+- In which case accessing data will be fast, a sorted array or a hashmap?
+-In which case accessing data will be fast, a sorted array or a hashmap?
+- Without using any built-in functions, how would you tell if a number is a power of 2?
+-When do you use recursion over iteration?
+- Without using any built-in functions, how would you calculate square root of a number?
+- Write a program to find the first non-repeating letter in a string. For example, “abbcdaa”
+then “c” is he first non-repeating letter. Can you go better than O(n
+2)? You cannot use additional data structures (including an array, which until the interviewer pointed out, I had totally forgotten is also a data structure). The only string functions you can use are
+indexing (s[i]) and s.length( )
+-Given a directory tree, code a function get all the files in that File System. What will the
+code be if BFS is used? What if DFS is used?
+-What if I write a public static abstract class?
+-If children do not overwrite the functions of the parent class (abstract), do functions
+occupy the same memory locations for multiple children?
+-Given a graph with N nodes, find the shortest line that connects A, B and C.
+-Swap two integers without having a temporary variable ?
+- Find duplicates in an array without using HashMaps in O(N) ?
+- Different version of a function overriding, with either different return type or with
+different parameters. Does this qualify as function overriding as well ?
+- Difference between overriding a simple function and overriding a virtual function?
+-What will happen if I try to change Java bytecode through a Java program?
+- Difference between overloading and overriding
+- Draw a UML diagram of a project ( they gave me one of my university projects)
+- How to find if a linked-list has a cycle?
+- Write pseudocode to implement a stack.
+- Suppose a C++ class has a virtual function, can we create its object?
+- What are friend functions or classes? If class C is inheriting from class B and class A is a
+friend of class B, can class C also access class A?
+- What happens if data is increased in case of recursion? (Ans: space complexity issue i.e.
+stack overflow)
+- How the compiler gets to know which function to execute in case of overriding? (Hint:
+Vtable)
+- Why can't we instantiate objects of abstract classes? (Ans: no entry of virtual functions in
+Vtable)
+- Wrote 3 structs and asked about the size of each in memory. (Hint: space less than 1 word
+size cannot be allocated in memory)
+- Given a string of n length. Write code to generate all permutations of that string
+- Write recursive code to traverse bst in order.
+- How are AVL rotations performed?
+
+-What is serialization and deserialization?
+- Regex and How to use regex on a particular initial?
+- Write recursive factorial function?
+- Difference between array and vectors?
+- What are collections?
+- What is static and final?
+- What is garbage collection? How would you implement it?
+-What is CNN?
+- How would you make an artificially intelligent machine?
+- What are access specifiers?
+
+
+-How can you create a heap overflow ?
+
+-Explain a code to delete second last element of a linked list
+- What is the difference between a set and a list/array?
+-Write a recursive function to reverse the nodes of the singular link list.
+- Delete nth element without using any counter from the link list ? Hint: use pointers and
+distance them according to number n
+- Find median of link list without using the counter ?
+- How to make stack with two queues.
+- Delete nth last element in strict O(n) ?
+- Delete the nth element without using the previous pointer? Ans: Copy the data from the
+next node to current node and delete the last node
+- Postfix Expression algorithm.
+- ZigZag Array problem
+- Reverse a linked list.
+- Divide a set into two subsets such that difference between the sum of numbers in two sets
+is minimal?
+- Write a function to see if two binary trees are mirror of each othe
+-What is merge sort? What is its time complexity?
+
+ How would you go about creating a clone of facebook? (ie design)
+¦ This question had several follow-up questions to guide/test you in the design
+phase. This part will vary for everyone.
+? How would you add a “like” feature? How would the poster be notified of likes?
+¦ This question also had several follow-up questions to guide/test you in the design
+phase. This part will vary for everyone.
+¦ Eventually extended to queries about server-side implementations, how you
+would handle load, and support a growing number of users
+-Given a number, write a function to reverse it (so 12345 -> 54321)
+-Write a generic method to map 2d array indices to a linear memory offset. For example, given an
+array of dimensions 2x3 and index [1,1], return 4.
+- Write recursive function for power of a variable x^y
+- Can you call static variables from a non-static member function? What about the other way
+around?
+- Let’s say there’s a formula to get elements of a 1d array i.e. arr(i) = x + 2i . It means if you enter
+arr(1), it will return x + 2*1 = x+2 and give you arr[1] of an array. Now create a formula for doing
+this for 2D array.
+
+
+==============================================================================================
+
+7) Analytical Questions:
+
+- An airplane flies from Islamabad to Karachi in 90 mins but flies back from Karachi to
+Islamabad in 1 hour 30 minutes. Why?
+- There's a room with dimensions X * Y. You're given tiles of N*N. Maximize N such that the
+tiles completely cover the room.
+- The longest distance you can travel when you have 3 motor bike tires that wear out after
+30 km ?
+-A building has 100 floors. You have 2 similar mobiles. How would you find the maximum
+floor from which dropping the phone would not break it? (Optimize time and you can
+waste both phones)
+- You have two ropes. They each take one hour to burn. How would you know when 45
+minutes have passed? They don’t burn sequentially, i.e., you can’t keep track of how much
+of the rope has burnt (10%, 25%,...)
+- You have a balance and eight balls which are of same size and have exactly same
+appearance. 1 out of eight balls has more weight than rest of the seven individual balls.
+You have to find the ball which weighs more by using balance as minimum times as
+possible.
+
+-Give a logical proof that if two consecutive numbers have a difference of two (eg 17 and
+19), the number in the middle (eg 18) is a multiple of 6.
+-There is an elephant that needs to go 1000 km across, it can only carry 1000 items at one
+time. You have total 3000 Items how much will you be able to transport if elephant
+consumes 1 item on 1 km.
+-A beast takes away your half of your food item and return you 1. How much do you
+require to have 2 items at end after meeting beast for 5 times.
+-Same beast take away half of the items now and return nothing. Give a generic formula to
+this ? For nth encounter
+- Top horse among 25 horses problem
+- 8 balls weight problem
+- Two people dropped on a plane. A doesn’t know where B is and B doesn’t know where A
+is. They can move left or right only. How can A find B? Hint: Move left 1 step then move
+right 2 steps then left 3 steps then right 4 steps until B who is standing still is found
+-There are two rope bridges spanning a river. 4 people need to cross it. The 4 people cross
+the river in 1, 3, 7, 10 mins. Only one person can be on a bridge at any given time.
+Minimum time to cross?
+-You’re given 1 3L jug and 5L jug, how will you get 4L of water from pond using the 2?
+- What day of the week will it be 100 days from now? (Write a general formula)
+
+A bin has 12 red balls, 10 blue balls, and 8 green balls.
+? How many balls do you need to pick so you're certain you have two of each color?
+? How many balls do you need to pick so you're certain you have two of any color?
+-You are present in a basement that has three electric buttons for three bulbs present on ground
+floor.For all three electric buttons you have to identify which electric button is associated to which
+bulb by only going to the ground floor once. (Hint: Concept of Energy/Heat)
+==============================================================================
+
+JAVA/Android:
+
+- Any point of starting a new thread in a recourse demanding service?
+- What's a sticky intent?
+- What is intent service
+- Difference between Async Task and Service
+- Would you prefer AsyncTask over Java Thread. Why?
+- What are memory leaks in Android?
+- How can we avoid memory leak?
+- How many threads are there in Android?
+- Why use Fragments instead of Activities?
+- What if a fragment gets destroyed?
+- How are threads created?
+- Is it guaranteed that a thread will start considering I write the code and run it? Suppose I
+have 10K threads and I start another. Is it guaranteed to start?
+- I have two threads arriving at the same time, how do I select one that should always run
+first?
+- What can go wrong if I have a network call in a thread that updates the UI after receiving
+the data? What can I do to solve this?
+- What is Hibernate?
+What is the role of jdbc/odbc?
+-What is the difference between immutable and mutable strings? (Strings are always
+immutable!)
+- How can you make a String mutable?
+- Null pointer exception
+- What are packages in Java?
+- What is final in java why we make a final method ?
+
+
+==========================================================================================
+
+
+Operating Systems:
+
+- Type of File Systems (just names)
+- components of List operating systems
+- List data structures used in OS.
+- Where is a heap used in OS.
+- How does a file system run/work
+- What are some commands of assembly language?
+- What is fragmentation?
+- List some terminal commands
+-What is paging?
+- What are semaphores and mutex locks? Differentiate between them.
+- What are race conditions.
+- List some scheduling algorithms
+
+
+
+
+======================================================================================
+
+
+Unity:
+
+- Difference b/w transform and translate
+- Fixed and simple update function
+- How the built in functions in script are called.
+- What is a Mesh ?
+- What is a collider ?
+
+-You have 4 enemy types, they all have some health stamina etc. They also have two
+attacks, full and half power (so functions). This attack varies from enemy to enemy. Make
+class diagram
+
+
+
+===============================================================================================
+
+
+Framework Related:
+
+-What are web services?
+- SOAP vs RestFul
+- What is WSDL?
+- Have you ever made a web service? How?
+- Have you made a project involving any website?
+-What is unit testing?
+- Write a code for unit test
+
+
+
+
+-------------------------------------------------------------------------------------------------------
+
+Contributors:
+
+Zeeshan Adil 
+Fayyaz Ahmad
