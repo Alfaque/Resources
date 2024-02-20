@@ -14,7 +14,8 @@ https://github.com/nickbutcher/plaid/blob/main/app/proguard-rules.pro <br><br>
 https://github.com/CodeBoy722/MediaFacer_Kotlin?tab=readme-ov-file <br><br>
 # TabSync
 https://github.com/Ahmad-Hamwi/TabSync <br><br> 
-
+# In-App Reviews API
+https://medium.com/@auvehassan/google-play-in-app-reviews-api-for-android-8debf7a73947 <br><br> 
 # Splash Api
 https://github.com/molidev8/splash-api-sample <br><br>
 https://proandroiddev.com/splash-screen-in-android-3bd9552b92a5<br><br>
@@ -72,8 +73,7 @@ https://github.com/Jaden-Reklaw/JavaEdabit<br><br><br><br>
 https://javarevisited.blogspot.com/2011/06/top-programming-interview-questions.html#axzz7JY577J1J<br><br>
 https://www.java67.com/2018/05/top-75-programming-interview-questions-answers.html<br><br>
 https://medium.com/tag/android-interviews<br><br>
-
-
+https://medium.com/@sujathamudadla1213/android-services-interview-questions-584bf63f2b69<br><br>
 
 
 # Freecoursesite
