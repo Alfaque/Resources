@@ -12,12 +12,16 @@ https://github.com/alibahaaa/ServerDrivenUi <br><br>
 https://github.com/nickbutcher/plaid/blob/main/app/proguard-rules.pro <br><br>
 # Mediafacer
 https://github.com/CodeBoy722/MediaFacer_Kotlin?tab=readme-ov-file <br><br>
+# TabSync
+https://github.com/Ahmad-Hamwi/TabSync <br><br> 
 
-
+# Splash Api
+https://github.com/molidev8/splash-api-sample <br><br>
 # Compose
 Effect Handlers in Jetpack Compose -> https://blog.stackademic.com/effect-handlers-in-jetpack-compose-b279abdbaa8d <br><br>
 # Notification
 Custom Notifications in android -> https://medium.com/@hrithik481/custom-notifications-in-android-359f949814b8 <br><br>
+All about Notifications in Android -> https://proandroiddev.com/all-about-notifications-in-android-718961054961 <br><br>
 # Location
 Effortlessly Implement Location Picker like Ola and Uber in Android/ drag map pointer will stay fixed -> https://medium.com/geekculture/implement-location-picker-like-ola-and-uber-in-android-effortlessly-1c3f7728f49<br><br>
 # Cache retrofit
