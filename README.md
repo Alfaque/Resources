@@ -2,6 +2,15 @@
 
 6 Algorithms Every Developer Should Know -> https://medium.com/dare-to-be-better/6-algorithms-every-developer-should-know-f78b609c7e7c<br><br><br><br>
 
+# Android Sample projects
+https://github.com/WebJournal/journaldev/tree/master/Android <br><br>
+# Ads
+https://github.com/googleads/googleads-mobile-android-examples <br><br>
+# ServerDrivenUi
+https://github.com/alibahaaa/ServerDrivenUi <br><br>
+# Proguard
+https://github.com/nickbutcher/plaid/blob/main/app/proguard-rules.pro <br><br>
+
 # Compose
 Effect Handlers in Jetpack Compose -> https://blog.stackademic.com/effect-handlers-in-jetpack-compose-b279abdbaa8d <br><br>
 # Notification
@@ -37,13 +46,16 @@ https://github.com/aayushi-droid/Edabit-Solutions <br><br>
 https://github.com/Leah-Grace/EdabitJava<br><br>
 https://github.com/PenevNyagolov/edabitJava/tree/main/src/com/company<br><br>
 https://github.com/k-dudziak/edabitChallenges<br><br>
+https://github.com/DicksonChris/edabitChallenges<br><br>
+https://github.com/Jaden-Reklaw/JavaEdabit<br><br><br><br>
 
 
-<br><br>
+# Interview
+https://javarevisited.blogspot.com/2011/06/top-programming-interview-questions.html#axzz7JY577J1J
+https://www.java67.com/2018/05/top-75-programming-interview-questions-answers.html
 
-<br><br>
 
-<br><br>
+
 <br><br>
 
 <br><br>
