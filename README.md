@@ -22,6 +22,9 @@ https://proandroiddev.com/splash-screen-in-android-3bd9552b92a5<br><br>
 Effect Handlers in Jetpack Compose -> https://blog.stackademic.com/effect-handlers-in-jetpack-compose-b279abdbaa8d <br><br>
 # Compose-Tutorials
 https://github.com/SmartToolFactory/Jetpack-Compose-Tutorials<br><br>
+# Notify
+Notify is a simple note application build to demonstrate the use of clean MVVM Architecture with Jetpack Compose and Material-3 guidelines along with some Modern Android development tools.<br><br>
+https://github.com/aritra-tech/Notify?source=post_page-----2e26513bf729-------------------------------- <br><br>
 
 # Notification
 Custom Notifications in android -> https://medium.com/@hrithik481/custom-notifications-in-android-359f949814b8 <br><br>
