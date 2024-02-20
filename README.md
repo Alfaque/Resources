@@ -17,8 +17,12 @@ https://github.com/Ahmad-Hamwi/TabSync <br><br>
 
 # Splash Api
 https://github.com/molidev8/splash-api-sample <br><br>
+https://proandroiddev.com/splash-screen-in-android-3bd9552b92a5<br><br>
 # Compose
 Effect Handlers in Jetpack Compose -> https://blog.stackademic.com/effect-handlers-in-jetpack-compose-b279abdbaa8d <br><br>
+# Compose-Tutorials
+https://github.com/SmartToolFactory/Jetpack-Compose-Tutorials<br><br>
+
 # Notification
 Custom Notifications in android -> https://medium.com/@hrithik481/custom-notifications-in-android-359f949814b8 <br><br>
 All about Notifications in Android -> https://proandroiddev.com/all-about-notifications-in-android-718961054961 <br><br>
