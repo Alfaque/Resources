@@ -67,8 +67,8 @@ https://github.com/Jaden-Reklaw/JavaEdabit<br><br><br><br>
 
 # Interview
 https://javarevisited.blogspot.com/2011/06/top-programming-interview-questions.html#axzz7JY577J1J<br><br>
-https://www.java67.com/2018/05/top-75-programming-interview-questions-answers.html<br><br><br><br>
-https://medium.com/tag/android-interviews
+https://www.java67.com/2018/05/top-75-programming-interview-questions-answers.html<br><br>
+https://medium.com/tag/android-interviews<br><br>
 
 
 
