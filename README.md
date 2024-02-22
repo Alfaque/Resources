@@ -27,7 +27,7 @@ https://github.com/SmartToolFactory/Jetpack-Compose-Tutorials<br><br>
 Notify is a simple note application build to demonstrate the use of clean MVVM Architecture with Jetpack Compose and Material-3 guidelines along with some Modern Android development tools.<br><br>
 https://github.com/aritra-tech/Notify?source=post_page-----2e26513bf729-------------------------------- <br><br>
 # WorkManager
-https://medium.com/@arjunnarikkuni00/workmanager-using-kotlin-android-c72660afef31
+https://medium.com/@arjunnarikkuni00/workmanager-using-kotlin-android-c72660afef31<br><br>
 # Notification
 Custom Notifications in android -> https://medium.com/@hrithik481/custom-notifications-in-android-359f949814b8 <br><br>
 All about Notifications in Android -> https://proandroiddev.com/all-about-notifications-in-android-718961054961 <br><br>
@@ -37,7 +37,8 @@ https://github.com/MrNtlu/Notification-Guide
 Effortlessly Implement Location Picker like Ola and Uber in Android/ drag map pointer will stay fixed -> https://medium.com/geekculture/implement-location-picker-like-ola-and-uber-in-android-effortlessly-1c3f7728f49<br><br>
 # Background location tracking
 https://github.com/philipplackner/BackgroundLocationTracking<br><br>
-
+# Alarm changes in android 14 
+https://carterchen247.medium.com/android-14-behavior-change-schedule-exact-alarms-are-denied-by-default-7563a814dee4<br><br>
 # Cache retrofit
 Caching With Retrofit — Store Responses Offline -> https://bapspatil.medium.com/caching-with-retrofit-store-responses-offline-71439ed32fda<br><br>
 Cache Me If You Can: Achieving Caching with Retrofit in Kotlin -> https://blog.stackademic.com/cache-me-if-you-can-achieving-caching-with-retrofit-in-kotlin-e77b38a26417<br><br><br><br>
