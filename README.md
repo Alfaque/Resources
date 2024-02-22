@@ -26,7 +26,8 @@ https://github.com/SmartToolFactory/Jetpack-Compose-Tutorials<br><br>
 # Notify
 Notify is a simple note application build to demonstrate the use of clean MVVM Architecture with Jetpack Compose and Material-3 guidelines along with some Modern Android development tools.<br><br>
 https://github.com/aritra-tech/Notify?source=post_page-----2e26513bf729-------------------------------- <br><br>
-
+# WorkManager
+https://medium.com/@arjunnarikkuni00/workmanager-using-kotlin-android-c72660afef31
 # Notification
 Custom Notifications in android -> https://medium.com/@hrithik481/custom-notifications-in-android-359f949814b8 <br><br>
 All about Notifications in Android -> https://proandroiddev.com/all-about-notifications-in-android-718961054961 <br><br>
