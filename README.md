@@ -55,14 +55,13 @@ Android Room code lab -> https://developer.android.com/codelabs/android-room-wit
 https://medium.com/android-dev-hacks/autofill-otp-verification-with-latest-sms-retriever-api-73c788636783<br><br>
 
 
-# Fultter <br><br>
+# Fultter
 Sample Widgets Examples -> https://github.com/md-siam/widget_of_the_day<br><br>
 
 
 
 
-# Edabit solutions <br><br>
-
+# Edabit solutions 
 https://github.com/aayushi-droid/Edabit-Solutions <br><br>
 https://github.com/Leah-Grace/EdabitJava<br><br>
 https://github.com/PenevNyagolov/edabitJava/tree/main/src/com/company<br><br>
