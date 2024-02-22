@@ -42,7 +42,8 @@ https://carterchen247.medium.com/android-14-behavior-change-schedule-exact-alarm
 # Cache retrofit
 Caching With Retrofit — Store Responses Offline -> https://bapspatil.medium.com/caching-with-retrofit-store-responses-offline-71439ed32fda<br><br>
 Cache Me If You Can: Achieving Caching with Retrofit in Kotlin -> https://blog.stackademic.com/cache-me-if-you-can-achieving-caching-with-retrofit-in-kotlin-e77b38a26417<br><br><br><br>
-
+# handle search API call on text change 
+https://freedium.cfd/https://levelup.gitconnected.com/how-to-handle-search-api-call-on-text-change-42f4fffe0baa
 # Animation
 Android RecyclerView Animations in Kotlin -> https://levelup.gitconnected.com/android-recyclerview-animations-in-kotlin-1e323ffd39be<br><br>
 # Websocket
