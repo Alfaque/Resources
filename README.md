@@ -33,6 +33,9 @@ Custom Notifications in android -> https://medium.com/@hrithik481/custom-notific
 All about Notifications in Android -> https://proandroiddev.com/all-about-notifications-in-android-718961054961 <br><br>
 # Notification-Guide FCM
 https://github.com/MrNtlu/Notification-Guide
+# Android Deeplink
+https://medium.com/@mrizqi070502/deep-link-another-way-to-open-your-app-7c3859404d1f
+
 # Location
 Effortlessly Implement Location Picker like Ola and Uber in Android/ drag map pointer will stay fixed -> https://medium.com/geekculture/implement-location-picker-like-ola-and-uber-in-android-effortlessly-1c3f7728f49<br><br>
 # Background location tracking
