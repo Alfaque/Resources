@@ -51,7 +51,8 @@ https://freedium.cfd/https://levelup.gitconnected.com/how-to-handle-search-api-c
 Android RecyclerView Animations in Kotlin -> https://levelup.gitconnected.com/android-recyclerview-animations-in-kotlin-1e323ffd39be<br><br>
 # Websocket
 websocket -> https://github.com/anangkur/websocket-android-playground<br><br>
-
+# Fragments in compose
+https://medium.com/mobile-app-development-publication/load-fragments-in-jetpack-compose-beyond-what-google-taught-356a7981268d
 # Room DB
 CRUD Operations in Room -> https://www.geeksforgeeks.org/how-to-perform-crud-operations-in-room-database-in-android/<br><br>
 Android Room code lab -> https://developer.android.com/codelabs/android-room-with-a-view-kotlin#0<br><br>
