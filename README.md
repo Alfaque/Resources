@@ -58,7 +58,8 @@ CRUD Operations in Room -> https://www.geeksforgeeks.org/how-to-perform-crud-ope
 Android Room code lab -> https://developer.android.com/codelabs/android-room-with-a-view-kotlin#0<br><br>
 # Google’s SMS retriever API
 https://medium.com/android-dev-hacks/autofill-otp-verification-with-latest-sms-retriever-api-73c788636783<br><br>
-
+# Add and user python script in native android app
+https://proandroiddev.com/chaquopy-using-python-in-android-apps-dd5177c9ab6b
 
 # Fultter
 Sample Widgets Examples -> https://github.com/md-siam/widget_of_the_day<br><br>
