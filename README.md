@@ -31,6 +31,7 @@ https://medium.com/@arjunnarikkuni00/workmanager-using-kotlin-android-c72660afef
 # Notification
 Custom Notifications in android -> https://medium.com/@hrithik481/custom-notifications-in-android-359f949814b8 <br><br>
 All about Notifications in Android -> https://proandroiddev.com/all-about-notifications-in-android-718961054961 <br><br>
+Android Custom Notification -> https://itnext.io/android-custom-notification-in-6-mins-c2e7e2ddadab
 # Notification-Guide FCM
 https://github.com/MrNtlu/Notification-Guide
 # Android Deeplink
